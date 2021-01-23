@@ -2,4 +2,6 @@
 
 ## lists
 
-[this is link] (/lists/lists.md)
+[this is link] (other.md)
+
+[this is another link] ( lists/lists.md )
